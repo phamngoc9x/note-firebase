@@ -1,8 +1,10 @@
 {
   "name": "note-firebase",
   "version": "0.1.0",
+  "homepage": "https://phamngoc9x.github.io/note-firebase/",
   "dependencies": {
     "firebase": "^5.9.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
@@ -13,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
