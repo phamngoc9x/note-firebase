@@ -6,7 +6,6 @@ class Nav extends Component {
     event.preventDefault();
     this.props.changeEditStatus();
     this.props.changeAddStatus();
-    
   }
   render() {
     return (
