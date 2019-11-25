@@ -1,13 +1,13 @@
 {
-  "main.css": "/note-firebase/static/css/main.15c38e58.chunk.css",
-  "main.js": "/note-firebase/static/js/main.1f13df6a.chunk.js",
-  "main.js.map": "/note-firebase/static/js/main.1f13df6a.chunk.js.map",
-  "runtime~main.js": "/note-firebase/static/js/runtime~main.602ef9e8.js",
-  "runtime~main.js.map": "/note-firebase/static/js/runtime~main.602ef9e8.js.map",
-  "static/js/2.c8841720.chunk.js": "/note-firebase/static/js/2.c8841720.chunk.js",
-  "static/js/2.c8841720.chunk.js.map": "/note-firebase/static/js/2.c8841720.chunk.js.map",
-  "index.html": "/note-firebase/index.html",
-  "precache-manifest.7af081ed36ea8976b4adf82d3c1814af.js": "/note-firebase/precache-manifest.7af081ed36ea8976b4adf82d3c1814af.js",
-  "service-worker.js": "/note-firebase/service-worker.js",
-  "static/css/main.15c38e58.chunk.css.map": "/note-firebase/static/css/main.15c38e58.chunk.css.map"
+  "main.css": "./static/css/main.15c38e58.chunk.css",
+  "main.js": "./static/js/main.d0a96b99.chunk.js",
+  "main.js.map": "./static/js/main.d0a96b99.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/js/2.99e94bdf.chunk.js": "./static/js/2.99e94bdf.chunk.js",
+  "static/js/2.99e94bdf.chunk.js.map": "./static/js/2.99e94bdf.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.272d9ecc9c9dd2144ec3e71005e9afda.js": "./precache-manifest.272d9ecc9c9dd2144ec3e71005e9afda.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.15c38e58.chunk.css.map": "./static/css/main.15c38e58.chunk.css.map"
 }
