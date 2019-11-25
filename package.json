@@ -1,7 +1,7 @@
 {
   "name": "note-firebase",
   "version": "0.1.0",
-  "homepage": "https://phamngoc9x.github.io/note-firebase/",
+  "homepage": ".",
   "dependencies": {
     "firebase": "^5.9.0",
     "gh-pages": "^2.1.1",
